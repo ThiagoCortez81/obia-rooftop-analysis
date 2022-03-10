@@ -1,0 +1,9 @@
+numpy
+time
+scikit-image
+scipy
+geopandas
+pandas
+ogr
+sklearn
+gdal==3.0.2
